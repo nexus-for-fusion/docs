@@ -19,7 +19,7 @@ The same pages are published as a site at `https://nexus-for-fusion.github.io/do
 
 ## Try it
 
-A proof of concept needs two Oracle Fusion Cloud environments you may write to, an integration user in each, a machine with Docker, and a 30-day trial key. [Getting started](docs/getting-started.md) has the steps; write to hello@example.com for a key.
+A proof of concept needs two Oracle Fusion Cloud environments you may write to, an integration user in each, a machine with Docker, and a 30-day trial key. [Getting started](docs/getting-started.md) has the steps; write to enquiries@techprojects.com for a key.
 
 ## About these docs
 
