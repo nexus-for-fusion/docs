@@ -43,7 +43,6 @@ Nexus ships as two container images and a set of Kubernetes manifests. It runs o
 | 50 to 80 min | First hotfix: pick records, review, approve, deploy, validate | Together |
 | After | Schedule discovery, add roles and approvers, try a configuration module | You |
 
-The trial includes every feature. The only limits are the 30-day clock and a cap on the number of records per compare, which we lift for a scaled pilot.
 
 ---
 

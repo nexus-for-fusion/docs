@@ -1,6 +1,6 @@
 # Walkthrough: three suppliers between two environments
 
-This is a real run between two Oracle Fusion development pods, recorded on 24 October 2026. In the screenshots they are labelled **us-dev2** (source) and **us-dev1** (target). Three suppliers were chosen because they differ between the pods:
+This is a real run between two Oracle Fusion development pods, recorded on 24 October 2026. In the screenshots they are labelled **us-dev2** (source) and **us-dev1** (target). Suppliers are the example here; the same flow applies to any master data object. Three suppliers were chosen because they differ between the pods:
 
 | Supplier | Difference between the pods |
 |---|---|

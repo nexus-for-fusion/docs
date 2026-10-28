@@ -11,7 +11,7 @@ A whole-population supplier compare was run between the same two pods on 12 and 
 | Time to compute the deployment diff for the pipeline stage | 28 seconds |
 | Deployment | More than 9,000 supplier records written to the target in one approved run, resumed twice after deliberate interruptions without re-sending what had landed; writes paced at eight requests per second to protect the pod; records Oracle refused (for example, a federal tax type Oracle will not accept) were reported individually and did not stop the run |
 
-Reads are paged and paced, so a compare of this size is safe to run against a live development or test pod. A compare is capped at a chosen number of root records (up to 1,000 by default); unlimited compares are a per-client setting.
+Reads are paged and paced, so a compare of this size is safe to run against a live development or test pod.
 
 ---
 

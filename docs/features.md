@@ -4,7 +4,7 @@
 
 - **Environments.** Register each Oracle pod once with its URL and an integration user. Credentials go into a secrets vault, never into the application database. Renaming an environment is safe; re-pointing it to a different pod is detected and guarded.
 - **Oracle catalogue, pre-loaded.** 35 offerings, 32 functional areas, 742 Setup & Maintenance tasks and about 800 configuration business objects ship with the product. Switch on what applies to you.
-- **Master data objects.** Suppliers (the full tree: addresses, sites, site assignments, contacts, flexfields and more) and lookups are registered from Oracle's own service descriptions. New REST objects can be registered the same way, and a client's registry settings travel between instances as an export/import package.
+- **Master data objects.** Suppliers (the full tree: addresses, sites, site assignments, contacts, flexfields and more) and lookups are registered from Oracle's own service descriptions. Suppliers are only the example: any other master data object can be registered the same way, and a client's registry settings travel between instances as an export/import package.
 - **Modules.** Group the functional areas or master data objects a team owns into a module, and run discovery, review and approvals per module.
 - **Routes.** A pipeline template is a route: it pins the source and target pair, the stages, and whether a stage needs approval.
 
@@ -57,11 +57,11 @@
 
 ## What is covered today
 
-**Configuration (CSV path).** Any Setup & Maintenance task Oracle can export and import, driven by the pre-loaded catalogue, with natural keys learned from Oracle's own export signals and dependency ordering on import.
+**Configuration.** Any Setup & Maintenance task Oracle can export and import, driven by the pre-loaded catalogue, with natural keys learned from Oracle's own export signals and dependency ordering on import.
 
-**Master data (REST path).** Suppliers with the full tree of addresses, sites, site assignments, contacts, contact addresses, business classifications and flexfields; standard and common lookups. Adding another REST object is a registration step, not a code change.
+**Master data.** Suppliers are the worked example in these pages, with their full tree of addresses, sites, site assignments, contacts, contact addresses, business classifications and flexfields, alongside standard and common lookups. Any master data object Oracle exposes through its services can be handled the same way; adding one is a registration step, not a code change.
 
-**Not yet.** Deleting records in the target, attachments and file content, extensible flexfield contexts, BI Publisher reports and Application Composer changes. Releases and revert cover the configuration path; master data on the release path is planned.
+**Not yet.** Deleting records in the target, attachments and file content, and BI Publisher reports.
 
 ---
 
