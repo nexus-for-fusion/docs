@@ -15,7 +15,7 @@ Nexus keeps Oracle Fusion Cloud environments in sync without re-keying. It finds
 | [Getting started](docs/getting-started.md) | Run a proof of concept in one to two hours: Docker locally, hosted, or in your own cloud |
 | [FAQ](docs/faq.md) | Credentials, failures, undo, databases, access control |
 
-The same pages are published as a site at `https://nexus-for-fusion.github.io/docs/` (search and navigation included).
+The same pages are published as a site at `https://nexus-for-fusion.github.io/docs/` (search and navigation included). The product page is at [techprojects.com/products/nexus-for-oracle-fusion](https://techprojects.com/products/nexus-for-oracle-fusion).
 
 ## Try it
 

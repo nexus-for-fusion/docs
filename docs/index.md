@@ -2,9 +2,19 @@
 
 **Keep your Oracle Fusion Cloud environments in sync without re-keying anything.**
 
-Nexus finds what is different between two Oracle Fusion environments, lets the right people review and approve exactly those records, writes them into the target environment through Oracle's own import and REST interfaces, and then reads the target back to prove the change landed. It covers both **configuration** (Setup & Maintenance tasks) and **master data** (suppliers and lookups today, more objects on the way).
+Nexus, from [TechProjects](https://techprojects.com/products/nexus-for-oracle-fusion), finds what is different between two Oracle Fusion environments, lets the right people review and approve exactly those records, writes them into the target environment through Oracle's own import and REST interfaces, and then reads the target back to prove the change landed. It covers both **configuration** (Setup & Maintenance tasks) and **master data** (suppliers and lookups today, more objects on the way).
 
 > From "what changed?" to "it is live and verified" in one governed, auditable flow.
+
+## Contact us
+
+Want a 30-day trial key or a walkthrough call on your own environments?
+
+[Email enquiries@techprojects.com](mailto:enquiries@techprojects.com?subject=Nexus%20for%20Oracle%20Fusion%20Cloud%3A%20trial%20key%20or%20walkthrough%20call&body=Hello%20TechProjects%20team%2C%0A%0AI%20read%20the%20Nexus%20for%20Oracle%20Fusion%20Cloud%20documentation%20and%20would%20like%20to%3A%0A%5B%20%5D%20receive%20a%2030-day%20trial%20key%0A%5B%20%5D%20book%20a%20walkthrough%20call%0A%0AName%3A%0ACompany%3A%0ARole%3A%0AOracle%20Fusion%20Cloud%20environments%20we%20would%20use%20%28for%20example%20DEV1%20and%20DEV2%29%3A%0AWhat%20we%20want%20to%20move%20first%20%28configuration%20area%20or%20master%20data%20object%29%3A%0APreferred%20days%20and%20times%20for%20a%20call%20%28with%20time%20zone%29%3A%0A%0AThank%20you.){ .md-button .md-button--primary }
+[Contact form on techprojects.com](https://techprojects.com/contact){ .md-button }
+[Nexus product page](https://techprojects.com/products/nexus-for-oracle-fusion){ .md-button }
+
+The email link opens a message with the subject and a short checklist already filled in; add your details and send.
 
 ---
 
